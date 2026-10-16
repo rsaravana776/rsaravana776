@@ -29,7 +29,7 @@ I'm a QA Automation Engineer with around 4 years of experience in automation and
 
 ## 🤝 Connect
 
-- LinkedIn: [Add your LinkedIn profile URL]
+- LinkedIn: https://www.linkedin.com/in/saravanan-r-782171170
 - GitHub: https://github.com/rsaravana776
 
 *I believe good automation is not just about writing scripts—it's about building reliable, maintainable, and meaningful tests.*
